@@ -1,0 +1,68 @@
+1.2.1
+    - line icons and fixed bugs
+    - piechart in stats
+
+1.2.0
+    - map all notifications in stats
+    - create notifications for reports
+
+1.1.9
+    - habit notifications
+    - change & persist theme
+
+1.1.8
+    - complete localizations
+    - localizations
+
+1.1.7
+    - map tasks on calendar page
+
+1.1.6
+    - calendar page UI
+
+1.1.5
+    - event notifications
+
+1.1.4
+    - demo local notifications
+
+1.1.3
+    - delete task
+
+1.1.2
+    - edit task
+
+1.1.1
+    - setting page
+
+1.1.0
+    - formatted data
+
+1.0.9
+    - listing tasks
+
+1.0.8
+    - seperate add habit & event UI
+
+1.0.7
+    - add task UI
+
+1.0.6
+    - fix header AppBar in EventPage
+
+1.0.5
+    - user info page
+
+1.0.4
+    - tab bar
+
+1.0.3
+    - bottom nav bar
+
+1.0.2
+    - fixed onboarding screens
+
+1.0.1
+    - onboarding screens
+    
+- initialize project
